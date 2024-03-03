@@ -1,0 +1,9 @@
+*.log
+**/*.o
+**/*.s
+/tmp*
+*.out
+/budv
+build/
+.cache/
+.vscode/
